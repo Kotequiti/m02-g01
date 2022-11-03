@@ -1,11 +1,11 @@
 
 body{ /* body selecciona el cuerpo general y lo pinta */
 	background-color: #F4FFF8; /* https://www.w3schools.com/colors/colors_names.asp */  
-	font-family: font-family: 'Space Grotesk', sans-serif;
+	 'Space Grotesk', sans-serif;font-family:
 	margin: 0px;		}
 
 
-
+.texto { font-family: 'Space Grotesk', sans-serif;}
   .container { height: 100vh;
 	 width: 100%;}
 
@@ -23,7 +23,8 @@ body{ /* body selecciona el cuerpo general y lo pinta */
    padding-left: 60px;
    display: flex;
    width: 100%;
-   background-color: darkgreen;
+   background-color: #8ED844;
+
    line-height: 1.3;
    font-family: Menlo, monospace;}
 
@@ -52,5 +53,13 @@ body{ /* body selecciona el cuerpo general y lo pinta */
    width: 100%;
   height: 100px;}
 
-  #titulo1 {margin-right: 100px;}
+  #titulo1 { padding-left: 100px;
+           padding-top: 150px;
+           font-family: 'Space Grotesk', sans-serif;}
+
+
+.proyecto {text-align:right ;
+        margin-top: -90px;
+        padding-right: 150px;
+          font-family: 'Space Grotesk', sans-serif;}
 
