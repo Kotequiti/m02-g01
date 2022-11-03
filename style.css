@@ -63,3 +63,6 @@ body{ /* body selecciona el cuerpo general y lo pinta */
         padding-right: 150px;
           font-family: 'Space Grotesk', sans-serif;}
 
+#donna {
+    padding-top: 50px; 
+    padding-left: 105px; }
