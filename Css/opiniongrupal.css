@@ -1,111 +1,70 @@
-body
-{height: 100vh;
-	width: 100%;
-	background-image: url(https://www.revistaanfibia.com/wp-content/uploads/2021/06/Donna-Haraway_01Port.jpg);
-background-position: center;
-background-size: cover;
-}
-
-.container { height: 100vh;
-	width: 100%;
-}
-.navbar { width: 100%;
-	height: 15vh;
-	margin: auto;
-	display: flex;
-	align-items: center;
-}
-	
-.logo {width: 160px;
-cursor: pointer;}
+body{ /* body selecciona el cuerpo general y lo pinta */
+	background-color: #F4FFF8; /* https://www.w3schools.com/colors/colors_names.asp */  
+	 'Space Grotesk', sans-serif;font-family:
+	margin: 0px;		}
 
 
-.menus {width: 40px;
-cursor: pointer;}
+.texto { font-family: 'Space Grotesk', sans-serif;}
+  .container { height: 100vh;
+	 width: 100%;}
 
-button { padding: 10px 20px; 
-background-color: #87CEFA;
-color: black;
-border: none;
-border-radius: 20px;
-margin-top: 10px;
-cursor: pointer;
-display: flex;
-}
-button:hover { background-color: white; }
-nav {flex: 1;
-padding-left: 60px;}
+  .navbar { width: 100%;
+	 height: 15vh;
+	 margin: auto;
+	 display: flex;
+	 align-items: center;}
+
+   .menus {width: 40px;
+   cursor: pointer;}
 
 
-nav ul li {
-	display: inline-block;
-	list-style: none;
-	margin: 0px 20 px;
-}
+  nav {flex: 1;
+   padding-left: 60px;
+   display: flex;
+   width: 100%;
+   background-color: #8ED844;
 
-nav ul li a {color: white;
-font-family: 'Fredoka One', cursive;
-text-decoration:none;
-padding: 10px 20px;
-box-sizing: border-box;
-display: inline-block;
-box-shadow: 3px 8px 22px;
-}
-a:hover {color: turquoise;
-transition: ease-in .5s;} 
-}
-.audio {box-sizing: border-box;
-display: inline-block;
-box-shadow: 3px 8px 22px;
-}
+   line-height: 1.3;
+   font-family: Menlo, monospace;}
 
- .brand h1 {
-	font-size: 200%;
-	font font-weight: 100%;
-	margin-top: 24px;
-	margin-bottom: 15px;
-	color: #232d60;}
-.brand span {
 
-	color: red;
-}
+  nav ul li {
+	 display: inline-block;
+	 list-style: none;
+	 margin: 0px 20 px;
+	 color: black;
+   padding: 10px 20px;
+   box-sizing: border-box;
+   display: inline-block;
+   box-shadow: 3px 8px 22px;}
 
-.contenido p{ font-size: 20px;
-color: #6a7199; }
-.contenido {
-	margin-left: 10%;
-	margin-top: 10%;
 
-}
 
-.autor {
-	height: 90%;
-	position: absolute;
-	bottom: 0;
-	right: 160px;
-}
+  nav ul li a {color: white;
+   font-family: 'Fredoka One', cursive;
+   text-decoration:none;}
 
-.texto {
-	padding: 10px 20px;
-	background-color: darkred;
-	color: white;
-	border: none;
-	border-radius: 20px;
-	margin-top: 10px;
-	cursor: pointer;
-	box-shadow: 1px 3PX 11PX -5px red;
-}
-.texto {
-}
-.social {
-	transform: rotate(-90deg);
-	position: absolute;
-	left: -80px;
-	bottom: 180px;
-}
-.social a{
-	text-decoration: none;
-	color: darkred;
-	padding-right: 20px;
-	font-size: 14px;
-}
+  a:hover 
+   {color: turquoise;
+   transition: ease-in .5s;} 
+
+  .logoynombre {background-color: greenyellow;
+   width: 100%;
+  height: 100px;}
+
+ .brand {padding-left: 100px;
+           padding-top: 100px;
+           font-family: 'Space Grotesk', sans-serif;}
+
+
+ .texto {padding-top: 50px; 
+    padding-left: 105px; }
+
+
+
+
+
+
+
+
+
