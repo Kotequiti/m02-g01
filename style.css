@@ -62,7 +62,15 @@ body{ /* body selecciona el cuerpo general y lo pinta */
         margin-top: -90px;
         padding-right: 150px;
           font-family: 'Space Grotesk', sans-serif;}
+          #flecha{position: absolute;
+            padding-left: 550px;
+            padding-top: 200px;}
+#subtitulo1 {padding-top: 100px;}
 
 #donna {
-    padding-top: 50px; 
+    padding-top: 200px; 
     padding-left: 105px; }
+
+#subtitulo2 {text-align: right;
+    padding-top: 600px;
+ padding-right: 150px;}
