@@ -2,7 +2,7 @@ body
 h1 {position: absolute;
 width: 703px;
 height: 122px;
-left: 233px;
+left: 29%;
 top: 100px;
 font-family: 'Space Grotesk'; 
 font-style: normal;
@@ -18,7 +18,7 @@ color: #8D00BE;
 p { position: absolute;
 width: 834px;
 height: 84px;
-left: 168px;
+left: 25%;
 top: 260px;
 
 font-family: 'Space Grotesk'; 
@@ -33,8 +33,9 @@ color: #141414;
 
 
 
+
 .container{box-sizing: border-box; width: 164px;
-	height: 0px%;position:absolute;top:200px;left:300px;transform:translate(-50%,-50%)}
+	height: 0px%;position:absolute;top:200px;left:48%;transform:translate(-50%,-50%)}
 .btn{margin-top:calc(50% + 25px);position:relative;display:inline-block;width:277px;height:50px;line-height:60px;text-align:center;text-transform:uppercase;background-color:transparent;cursor:pointer;text-decoration:none;font-family:Roboto,sans-serif;font-weight:900;font-size:17px;letter-spacing:.045em}
 .btn svg{position:absolute;top:0;left:0}
 .btn svg rect{//stroke:#EC0033;stroke-width:4;stroke-dasharray:353,0;stroke-dashoffset:0;-webkit-transition:all 600ms ease;transition:all 600ms ease}
@@ -44,7 +45,7 @@ color: #141414;
 
 img {position: absolute;
 width: 500px;
-left: 100px;
+align-content: center;
 top: 300px;
-
+right: 50px;
 }
