@@ -57,11 +57,13 @@ body{ /* body selecciona el cuerpo general y lo pinta */
            font-family: 'Space Grotesk', sans-serif;}
 
 
- .texto {padding-top: 50px; 
-    padding-left: 105px; }
 
 
-
+.text-justify {text-align: justify; 
+  padding-top: 50px; 
+    padding-left: 105px; 
+    padding-right: 800px;
+}
 
 
 
