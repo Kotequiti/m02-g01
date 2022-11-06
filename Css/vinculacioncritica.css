@@ -26,7 +26,9 @@ body{ /* body selecciona el cuerpo general y lo pinta */
 
 .texto { font-family: 'Space Grotesk', sans-serif;
         padding-left: 100px;
-         padding-top: 150px;}
+         padding-top: 150px;
+        color: #8D00BE;
+       }
   .container { height: 100vh;
          width: 100%;}
 

@@ -65,21 +65,36 @@ body{ /* body selecciona el cuerpo general y lo pinta */
 
   #titulo1 { padding-left: 100px;
            padding-top: 150px;
-           font-family: 'Space Grotesk', sans-serif;}
+           font-family: 'Space Grotesk', sans-serif;
+          color: #8D00BE;}
 
 
 .proyecto {text-align:right ;
         margin-top: -90px;
         padding-right: 150px;
-          font-family: 'Space Grotesk', sans-serif;}
-          #flecha{position: absolute;
-            padding-left: 550px;
-            padding-top: 200px;}
-#subtitulo1 {padding-top: 100px;}
+        font-family: 'Space Grotesk', sans-serif;
+        color: #8D00BE;
+          }
 
-#donna {
-    padding-top: 200px; 
-    padding-left: 105px; }
+#flecha   {position: absolute;
+          padding-left: 550px;
+          padding-top: 200px;
+          }
+
+#subtitulo1 {padding-top: 100px;
+          }
+
+#donna    {padding-top: 200px; 
+          padding-left: 105px;
+          }
+
+.donnita  {color: #8D00BE;
+          }
+
+
+#heather  {padding-top: 100px; 
+          color:#8D00BE; 
+          }
 
 #subtitulo2 {text-align: right;
     padding-top: 600px;

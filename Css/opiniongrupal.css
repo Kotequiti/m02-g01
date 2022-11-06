@@ -52,7 +52,8 @@ html{font-family: 'Space Grotesk', sans-serif;}
 
 .texto { font-family: 'Space Grotesk', sans-serif;}
   .container { height: 100vh;
-	 width: 100%;}
+	 width: 100%;
+    }
 
  
 
@@ -85,7 +86,8 @@ html{font-family: 'Space Grotesk', sans-serif;}
  .brand {padding-left: 100px;
            padding-top: 50px;
            font-family: 'Space Grotesk', sans-serif;
-           padding-bottom: 80px;}
+           padding-bottom: 80px;
+       color: #8D00BE;}
 
 
 
@@ -101,6 +103,7 @@ html{font-family: 'Space Grotesk', sans-serif;}
 
 .nombre {padding-left: 105px;
   padding-top: 30px;
+  color: #8D00BE;
 }
 
 .text-justifyi {text-align: justify; 
@@ -112,6 +115,7 @@ html{font-family: 'Space Grotesk', sans-serif;}
 }
 
 .nombrei {padding-left:600px;
+          color: #8D00BE;
 }
 
 .coti {display: flex;

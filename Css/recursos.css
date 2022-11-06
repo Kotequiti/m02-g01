@@ -7,4 +7,12 @@ html{ font-family: 'Space Grotesk', sans-serif;}
   width: 75px;
   }
 
-  #subtitulo1{text-align: center;}
+
+.titulo {color: #8D00BE;}
+
+  #subtitulo1{color: #8D00BE ;
+        text-align: center;}
+
+
+
+
