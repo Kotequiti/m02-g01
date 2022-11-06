@@ -145,3 +145,14 @@ html{font-family: 'Space Grotesk', sans-serif;}
   padding-right: 250px;
 padding-left: 800px;}
 
+.coni {display: flex;
+        position: absolute;
+  height: 200px;
+  width: 200px;
+  padding-left: 300px; }
+ .jose {display: flex;
+        position: absolute;
+  height: 200px;
+  width: 200px;
+  padding-left: 300px; }
+
