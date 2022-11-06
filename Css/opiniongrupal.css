@@ -1,7 +1,9 @@
 body{ /* body selecciona el cuerpo general y lo pinta */
-	background-color: #F4FFF8; /* https://www.w3schools.com/colors/colors_names.asp */  
+	background-color: #FFFF; /* https://www.w3schools.com/colors/colors_names.asp */  
 	 'Space Grotesk', sans-serif;font-family:
 	margin: 0px;		}
+
+html{font-family: 'Space Grotesk', sans-serif;}
 
 
 
@@ -95,9 +97,7 @@ body{ /* body selecciona el cuerpo general y lo pinta */
     padding-bottom: 20px ;
 }
 
-.quienessomos{ width: 100%;
-height: 96px;
-background-color: greenyellow; }
+
 
 .nombre {padding-left: 105px;
   padding-top: 30px;
@@ -114,16 +114,34 @@ background-color: greenyellow; }
 .nombrei {padding-left:600px;
 }
 
-.img {display: flex;
+.coti {display: flex;
         position: absolute;
   height: 200px;
   width: 200px;
-  padding-left: 200px; }
+  padding-left: 300px; }
+
+  .lanny {display: flex;
+        position: absolute;
+  height: 200px;
+  width: 200px;
+  padding-left: 300px; }
+
+  .chito {display: flex;
+        position: absolute;
+  height: 200px;
+  width: 200px;
+  padding-left: 300px; }
+
+  .isa {display: flex;
+        position: absolute;
+  height: 200px;
+  width: 200px;
+  padding-left: 300px; }
 
 .imgi {display: flex;
         position: absolute;
   height: 200px;
   width: 200px;
-  padding-right: 200px;
+  padding-right: 250px;
 padding-left: 800px;}
 

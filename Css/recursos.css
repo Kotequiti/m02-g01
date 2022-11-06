@@ -1,5 +1,10 @@
+
+html{ font-family: 'Space Grotesk', sans-serif;}
+
 .gatite a{display: flex;
         position: absolute;
   height: 75px;
   width: 75px;
   }
+
+  #subtitulo1{text-align: center;}

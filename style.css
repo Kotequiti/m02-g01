@@ -1,6 +1,6 @@
 
 body{ /* body selecciona el cuerpo general y lo pinta */
-	background-color: #F4FFF8; /* https://www.w3schools.com/colors/colors_names.asp */  
+	background-color: #FFFF; /* https://www.w3schools.com/colors/colors_names.asp */  
 	 'Space Grotesk', sans-serif;font-family:
 	margin: 0px;		}
 
@@ -54,7 +54,7 @@ body{ /* body selecciona el cuerpo general y lo pinta */
 
 
   nav ul li a {color: white;
-   font-family: 'Fredoka One', cursive;
+   font-family: 'Space Grotesk', sans-serif;
    text-decoration:none;}
 
 
