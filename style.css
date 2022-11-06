@@ -5,6 +5,15 @@ body{ /* body selecciona el cuerpo general y lo pinta */
 	margin: 0px;		}
 
 
+
+.gatite{display: flex;
+        position: absolute;
+  height: 75px;
+  width: 75px;
+  }
+
+
+
 .texto { font-family: 'Space Grotesk', sans-serif;}
   .container { height: 100vh;
 	 width: 100%;}

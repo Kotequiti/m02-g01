@@ -15,7 +15,11 @@ body{ /* body selecciona el cuerpo general y lo pinta */
 
 
 
-
+.gatite{display: flex;
+        position: absolute;
+  height: 75px;
+  width: 75px;
+  }
 
   nav {flex: 1;
    padding-left: 60px;
