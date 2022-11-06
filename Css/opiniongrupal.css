@@ -130,13 +130,15 @@ html{font-family: 'Space Grotesk', sans-serif;}
         position: absolute;
   height: 200px;
   width: 200px;
-  padding-left: 300px; }
+  padding-left: 300px;
+  padding-top: 75px; }
 
   .isa {display: flex;
         position: absolute;
   height: 200px;
   width: 200px;
-  padding-left: 300px; }
+  padding-left: 300px;
+  padding-top: 200px; }
 
 .imgi {display: flex;
         position: absolute;
@@ -154,5 +156,6 @@ padding-left: 800px;}
         position: absolute;
   height: 200px;
   width: 200px;
-  padding-left: 300px; }
+  padding-left: 300px;
+  padding-top: 50px; }
 
