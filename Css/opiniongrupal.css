@@ -92,26 +92,38 @@ body{ /* body selecciona el cuerpo general y lo pinta */
    
     padding-left: 105px; 
     padding-right: 600px;
+    padding-bottom: 20px ;
 }
 
 .quienessomos{ width: 100%;
-height: 100px;
+height: 96px;
 background-color: greenyellow; }
 
 .nombre {padding-left: 105px;
+  padding-top: 30px;
 }
 
 .text-justifyi {text-align: justify; 
    
     padding-left: 600px; 
     padding-right: 105px;
+    padding-bottom: 20px;
 
 }
 
 .nombrei {padding-left:600px;
 }
 
-x 
+.img {display: flex;
+        position: absolute;
+  height: 200px;
+  width: 200px;
+  padding-left: 200px; }
 
-
+.imgi {display: flex;
+        position: absolute;
+  height: 200px;
+  width: 200px;
+  padding-right: 200px;
+padding-left: 800px;}
 
