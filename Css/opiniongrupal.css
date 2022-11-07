@@ -3,7 +3,7 @@ body{ /* body selecciona el cuerpo general y lo pinta */
 	 'Space Grotesk', sans-serif;font-family:
 	margin: 0px;		}
 
-
+html{ font-family: 'Space Grotesk', sans-serif;}
 
 
 .button{position:relative;padding:1em 1.5em;border:none;background-color:transparent;cursor:pointer;outline:0;font-size:18px;margin:1em .8em}
@@ -34,7 +34,7 @@ body{ /* body selecciona el cuerpo general y lo pinta */
 
 
   nav ul li a {color: white;
-   font-family: 'Fredoka One', cursive;
+    font-family: 'Space Grotesk', sans-serif;;
    text-decoration:none;}
 
 
@@ -67,7 +67,7 @@ body{ /* body selecciona el cuerpo general y lo pinta */
 
 
   nav ul li a {color: white;
-   font-family: 'Fredoka One', cursive;
+    font-family: 'Space Grotesk', sans-serif;
    text-decoration:none;}
 
 
