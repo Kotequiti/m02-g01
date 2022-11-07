@@ -71,4 +71,27 @@ body{ /* body selecciona el cuerpo general y lo pinta */
  
    .texto1{padding-left: 105px;
            padding-top: 20px;
-           padding-right:600px ;}
+           padding-right:500px ;}
+
+ .img {width: 300px;
+        height: 300px;
+position: absolute;
+padding-left: 1000px;
+padding-top: 70px;}
+
+.nombre2 {padding-left: 105px;
+           padding-top: 50px;
+           font-family: 'Space Grotesk', sans-serif;;}
+ 
+   .texto2{padding-left: 105px;
+           padding-top: 40px;
+           padding-right:500px ;
+          ;}
+
+ .img2 {width: 300px;
+        height: 300px;
+position: absolute;
+padding-left: 1000px;
+padding-top: 95px;}
+
+.abajo {}
