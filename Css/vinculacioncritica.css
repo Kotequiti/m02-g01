@@ -12,7 +12,7 @@
 .button.type1.type1:hover:after,.button.type1.type1:hover:before{width:100%;height:100%}
 
 
-
+html{ font-family: 'Space Grotesk', sans-serif;}
 
 
   nav {flex: 1;
@@ -40,3 +40,7 @@
   nav ul li a {color: white;
    font-family: 'Space Grotesk', sans-serif;
    text-decoration:none;}
+
+
+.texto{color: #8D00BE;
+      padding-top: 100px;}

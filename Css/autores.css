@@ -67,7 +67,8 @@ body{ /* body selecciona el cuerpo general y lo pinta */
 
    .nombre1 {padding-left: 105px;
            padding-top: 20px;
-           font-family: 'Space Grotesk', sans-serif;;}
+           font-family: 'Space Grotesk', sans-serif;
+           color: #8D00BE;}
  
    .texto1{padding-left: 105px;
            padding-top: 20px;
@@ -81,7 +82,8 @@ padding-top: 70px;}
 
 .nombre2 {padding-left: 105px;
            padding-top: 50px;
-           font-family: 'Space Grotesk', sans-serif;;}
+           font-family: 'Space Grotesk', sans-serif;
+         color: #8D00BE;}
  
    .texto2{padding-left: 105px;
            padding-top: 40px;

@@ -1,5 +1,5 @@
 body{ /* body selecciona el cuerpo general y lo pinta */
-	background-color: #F4FFF8; /* https://www.w3schools.com/colors/colors_names.asp */  
+	 /* https://www.w3schools.com/colors/colors_names.asp */  
 	 'Space Grotesk', sans-serif;font-family:
 	margin: 0px;		}
 
@@ -117,14 +117,15 @@ body{ /* body selecciona el cuerpo general y lo pinta */
         position: absolute;
   height: 200px;
   width: 200px;
-  padding-left: 300px; }
+  padding-left: 300px;
+  padding-top:100px; }
 
   .chito {display: flex;
         position: absolute;
   height: 200px;
   width: 200px;
   padding-left: 300px;
-  padding-top: 75px; }
+  padding-top: 50px; }
 
   .isa {display: flex;
         position: absolute;
